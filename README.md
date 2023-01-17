@@ -1,14 +1,20 @@
-TLC Engineering student.
+Computer Science student.
 Extreme passion for code and videomaking.
 
 Skills:
-- Python
-- C++ (base)
+- C/C++
 - C#
 - Java
 - Javascript
+- Node js
+- React
+- Next js
+- Express js
+- Dart
+- Flutter
 - HTML/CSS
-- Matlab
+- Matlab / Octave
+- Python
 
 - Certified DaVinci Resolve End User
 
