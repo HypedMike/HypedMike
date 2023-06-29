@@ -2,23 +2,16 @@ Computer Science student.
 Extreme passion for code and videomaking.
 
 Skills:
-- C/C++
-- C#
+- C
 - Java
-- Javascript
-- Node js
+- Javascript / Typescript
+- Nodejs
 - React
 - Next js
 - Express js
 - Dart
 - Flutter
 - HTML/CSS
-- Matlab / Octave
 - Python
 
 - Certified DaVinci Resolve End User
-
-Currently learning:
-- C++ (advanced)
-- Cybersecurity
-- Networking
