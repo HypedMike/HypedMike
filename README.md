@@ -1,17 +1,15 @@
 Computer Science student.
 Extreme passion for code and videomaking.
 
-Skills:
-- C
+Skills (order by preference):
+- Go
+- Nodejs (Ts)
+  - ExpressJS
+- Flutter (dart)
+- C / C++
 - Java
-- Javascript / Typescript
-- Nodejs
-- React
 - Next js
-- Express js
-- Dart
-- Flutter
-- HTML/CSS
+- Svelte
 - Python
 
 - Certified DaVinci Resolve End User
