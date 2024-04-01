@@ -3,6 +3,7 @@ Extreme passion for code and videomaking.
 
 Skills (order by preference):
 - Go
+  - Gin
 - Nodejs (Ts)
   - ExpressJS
 - Flutter (dart)
