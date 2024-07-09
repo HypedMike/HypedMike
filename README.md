@@ -5,12 +5,12 @@ Skills (order by preference):
 - Go
   - Gin
 - Nodejs (Ts)
+  - NextJS
+  - Sveltekit
   - ExpressJS
 - Flutter (dart)
 - C / C++
 - Java
-- Next js
-- Svelte
 - Python
 
 - Certified DaVinci Resolve End User
