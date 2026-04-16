@@ -1,4 +1,3 @@
-Computer Science student.
 Extreme passion for code and videomaking.
 
 Skills (order by preference):
