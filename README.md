@@ -1,15 +1,10 @@
-Extreme passion for code and videomaking.
+Vibing for a living, coding for fun.
 
-Skills (order by preference):
+Busy solving real world problems but also finding solutions for non-existing problems.
+Currently into "Why don't we convert it to Rust?"
+
+What I usually use:
 - Go
-  - Gin
-- Nodejs (Ts)
-  - NextJS
-  - Sveltekit
-  - ExpressJS
-- Flutter (dart)
-- C / C++
-- Java
-- Python
-
-- Certified DaVinci Resolve End User
+- Dart (Flutter)
+- Rust
+- NodeJS (Typescript + Fastify / React / Vue / Svelte)
